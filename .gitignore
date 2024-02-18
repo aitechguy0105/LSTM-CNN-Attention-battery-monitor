@@ -1,0 +1,8 @@
+venv/
+.git
+.idea/
+**/__pycache__/
+Images/*
+Data/*
+Weights/*
+Description/*
