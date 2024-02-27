@@ -48,7 +48,7 @@ Moreover, the dataset, available in .mat format,
 necessitates a strategic approach for data extraction
 and preprocessing to ensure its readiness for model
 input.
-![Image Description](figure1.PNG)
+![Image Description](./figure1.PNG)
 ## Methodology
 In this section, we discussed the data extraction,
 data pre-processing, model architecture and loss
