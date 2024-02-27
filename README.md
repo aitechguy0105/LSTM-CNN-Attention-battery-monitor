@@ -87,7 +87,7 @@ poised for predictive modeling. This
 streamlined approach ensures the dataset's
 completeness and reliability, essential for the
 accurate prediction of battery performance.
-![Image Description](figure2.PNG)
+![Image Description](./figure2.PNG)
 ### Model Architecture:
 The proposed model architecture as shown
 in Figure 3, is a cutting-edge hybrid
@@ -102,7 +102,7 @@ the strengths of deep learning to recognize
 patterns in the data, alongside the precision
 of system differential representation to
 model the battery's dynamics over time.
-![Image Description](NODE.PNG)
+![Image Description](./NODE.PNG)
 
 ## Experiment settings:
 In this study, set up a series of parameters to evaluate the performance of our hybrid neural network
@@ -139,7 +139,7 @@ Following are the steps followed during gradient update:
 9. Repeat steps 3-8 for each batch of data in each epoch
 10. End Gradient Update
 ## Result:
-![Image Description](result.PNG)
+![Image Description](./result.PNG)
 
 ## Contributors
 
